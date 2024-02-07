@@ -1,0 +1,35 @@
+.glass{
+    position: absolute;
+    background-color: chocolate;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    opacity: 0.5;
+    z-index: -1;
+
+}
+.bg{
+    background-image: url(./imags/woodbook3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+    z-index: -2;
+}
+.glass2{
+    position: absolute;
+    background-color: rgba(0, 100, 0, 0.753);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    opacity: 0.5;
+    z-index: -1;
+}
+.bg2{
+    background-image: url(./imags/woodbook3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+    z-index: -2;
+}

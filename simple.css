@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+}
+h1{
+    color: black;
+}
+p{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+    border: 4cm;
+   
+    color: black;
+}

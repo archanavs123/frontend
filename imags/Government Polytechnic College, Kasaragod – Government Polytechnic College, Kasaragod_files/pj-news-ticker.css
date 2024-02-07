@@ -1,0 +1,23 @@
+.pjnt-border {
+	border: 3px solid;
+	width: 100%;
+	padding:4px;
+}
+.pjnt-label {
+	float: left;
+	margin: 12px 7px;
+    font-weight: bold;
+}
+.pjnt-box {
+	overflow: hidden;
+	padding:7px;
+}
+.pjnt-content {
+	white-space: nowrap;
+	display: inline-block;
+	position: relative;
+	left: 0px;
+}
+.pjnt-content .pjnt-item {
+	padding: 0 1rem;
+}
