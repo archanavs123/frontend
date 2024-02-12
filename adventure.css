@@ -1,15 +1,37 @@
 .roww2{
-text-align: center;
+text-align: left;
 font-size: larger;
 font-family: 'Times New Roman', Times, serif;
 }
 .row2{
-    text-align: center;
+    text-align: left;
 font-weight: 100;
 font-family:serif;
 font-size: 80px;
-line-height: 130px;
+line-height: 100px;
 }
 .javahar{
     padding-left: 250px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    line-height: 30px;
+}
+.freedom{
+    font-family: 'Grey Qo', cursive;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 500;
+}
+/* .new{
+    font-weight: 100;
+font-family:serif;
+font-size: 50px;
+
+
+} */
+.new1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+      text-align: center;
+      line-height: 30px;
+      font-size: larger;
 }
